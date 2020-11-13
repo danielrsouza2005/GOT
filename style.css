@@ -17,3 +17,7 @@ body{
 p{
   text-align: justify;
 }
+
+ul {
+   font-weight: border;
+}
