@@ -1,6 +1,6 @@
 h1 {
 background-repeat: no-repeat;
-background-image:url"imagens/imagem_01.jpg";
+background-image:url https://images.app.goo.gl/izZcEfU12HkL89rs7";
 background-size: 100% 100%;
 height: 250px;
 }
@@ -12,4 +12,3 @@ body{
 p{
   text-align: justify;
 }
-js
