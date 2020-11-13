@@ -5,6 +5,11 @@ background-size: 100% 100%;
 height: 250px;
 }
 
+h2 {
+  color: red;
+  font-weight: border;
+}
+
 body{
   width: 80%;
   margin: auto;
